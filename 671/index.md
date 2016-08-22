@@ -4,8 +4,8 @@ title: Economics 671 course page
 ---
 
 This is the course webpage for Economics 671 at Iowa State, PhD
-Econometrics (Fall 2015). The class meets 9–11 in Heady 272 on
-Tuesdays and Thursdays. The TA for this fall is Zack Martin and
+Econometrics (Fall 2016). The class meets 9–11 in Heady 272 on
+Tuesdays and Thursdays. The TA for this fall is Jiaoting Shi and
 his contact information is on the course syllabus.
 Before emailing me or the TA about this class, please read [these
 email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
@@ -16,16 +16,12 @@ email guidelines](../dl/email) ([written by Michael Leddy][leddy]).
 Links to course material and reading
 ----------------------------------------------------------------------
 
-* [Course syllabus](syllabus-2015.pdf) with contact information and
+* [Course syllabus](syllabus-2016.pdf) with contact information and
   class details
-* [Reading guide](readingguide-2015.pdf)
-* [Introductory email to incoming PhD students](/blog/intro-phd-email)
-* [Slides for first class meeting](intro-2015.pdf)
-* [Software installation handout](software-installation.pdf)
+* [Frequently Asked Questions](https://trello.com/b/DqNaeswz).
 * **Required textbooks:**
   * Hayashi (2000), *[Econometrics][Ha00]*
   * Ramanathan (1993), *[Statistical Methods in Econometrics][Ra93]*
-  * Teetor (2011), *[R Cookbook][Te11]*
 * **Additional required reading:**
   * Imbens and Wooldridge (2009), [Recent developments in the econometrics of
     program evaluation][IW09]
@@ -34,13 +30,6 @@ Links to course material and reading
   * Thomson (2011), *[A Guide for the Young Economist][Th11]*
   * Freedman (2009), *[Statistical Models: Theory and Practice][Fr09]*,
     second edition
-* **Git resources:**
-  * [The Git Parable][Pr09]: basic motivation for why software like Git
-    is useful.
-  * [Best practices for teams][GFT]: very simple guidelines for how to
-    use source control. (Includes advice for 'teams of one.') The author
-    has a book ([Git for Teams][GFT2]) that's very good too.
-  * [Pro Git][CS14]: an excellent and free book entirely about Git.
 * [A list of additional free econometrics resources][EFLP] (with especially
   relevant material [here][EFLP2])
 * You can use [Blackboard Learn][] to check your grade throughout the
@@ -61,38 +50,6 @@ Links to course material and reading
 [GFT2]: http://shop.oreilly.com/product/0636920034520.do
 [CS14]: http://git-scm.com/book/en/v2
 
-Selected programming assignments
---------------------------------
-
-* [Notes on unemployment rate forecasting exercise](instructions.html)
-  and [slides from lecture](forecasting-slides.pdf)
-* [Hayashi Ch1, empirical exercise answers](4-Hayashi-answers.html)
-* [Hayashi Ch2, empirical exercise 1 answers](5-Hayashi-answers-1.html)
-* [Hayashi Ch2, empirical exercise 2 answers](5-Hayashi-answers-2.html)
-
-
-Practice questions from the textbooks
-----------------------------------------------------------------------
-
-It would be especially good preparation for the final exam to work on answers
-to the following questions. (All of them are from the end of chapter exercises.)
-
-* Ramanathan: 5.4, 6.9, 7.3, 8.8, 9.9
-* Hayashi chapter 1: 1, 2, 4, and 5; chapter 2: 2, 3, and 7.
-
-If you have time, the other questions are also good. But you should prioritize
-these questions.
-
-Fall, 2015 Grade Weights
-----------------------------------------------------------------------
-
-Grade weights for 2015 were negotiated to be:
-
-* Individual scores: 20% (further split into 70% for the iRATs and 30%
-  for the final exam)
-* Team scores: 60% (30% tRAT and 70% graded class activities)
-* Peer evaluations: 20%
-
 Material from previous years
 ----------------------------------------------------------------------
 
@@ -101,6 +58,7 @@ from year to year, so don’t use past exams as study guides. But the
 old exams might help you learn what sort of questions I find
 interesting.
 
+* 2015 [syllabus](syllabus-2015.pdf) and [reading guide](readingguide-2015.pdf)
 * 2014 [syllabus](syllabus-2014.pdf) and [reading guide](readingguide-2014.pdf)
 * 2013 [syllabus](syllabus-2013) and [final exam](test-final-2013.pdf)
 * 2012 [syllabus](syllabus-2012),
