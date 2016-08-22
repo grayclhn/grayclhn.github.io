@@ -19,6 +19,7 @@ Links to course material and reading
 * [Course syllabus](syllabus-2016.pdf) with contact information and
   class details
 * [Frequently Asked Questions](https://trello.com/b/DqNaeswz).
+* [Slack](https://iastateeconometrics.slack.com).
 * **Required textbooks:**
   * Hayashi (2000), *[Econometrics][Ha00]*
   * Ramanathan (1993), *[Statistical Methods in Econometrics][Ra93]*
