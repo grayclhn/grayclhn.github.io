@@ -115,15 +115,15 @@ Iowa State University Economics Department Working Paper #11017.
 (2015-04-21) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
-[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v6/bartalotti_calhoun_he_rdboot.pdf),
-joint with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
-and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang)
-(2016-08-12, v6)
-[source code repository](https://github.com/grayclhn/boot-rd)
-
 <a id="publications">
 Refereed publications
 ---------------------
+
+[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v8/bartalotti_calhoun_he_rdboot.pdf),
+with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
+and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang).
+Forthcoming in *Advances in Econometrics* volume 38, October 2016.
+[Source code repository](https://github.com/grayclhn/boot-rd)
 
 Hypothesis testing in linear regression when k/n is large. *Journal
 of Econometrics*, 165(2), 2011: 163–174.
