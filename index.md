@@ -119,7 +119,7 @@ Iowa State University Economics Department Working Paper #11017.
 Refereed publications
 ---------------------
 
-[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v8/bartalotti_calhoun_he_rdboot.pdf),
+[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v9/bartalotti_calhoun_he_rdboot.pdf),
 with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
 and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang).
 Forthcoming in *Advances in Econometrics* volume 38, October 2016.
