@@ -88,9 +88,9 @@ Work in progress
 Iowa State University Economics Department Working Paper #11002.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
-[Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap_2015-12-31.pdf)
+[Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap_2016-09-28.pdf)
 (2015-12-31, revise and resubmit at *Econometric Theory*) with
-[supplemental appendix](dl/calhoun_bootstrap_appendix_2015-12-31.pdf)
+[supplemental appendix](dl/calhoun_bootstrap_appendix_2016-09-28.pdf)
 and
 [public repository](https://github.com/grayclhn/block-bootstrap-weak).
 Iowa State University Economics Department Working Paper #11017.
