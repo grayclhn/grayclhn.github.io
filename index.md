@@ -119,6 +119,11 @@ Iowa State University Economics Department Working Paper #11017.
 Refereed publications
 ---------------------
 
+Integrated Assessment Models of the Food, Energy, and Water (FEW) Nexus: A
+Review and Research Needs (2016)
+with Catherine L. Kling, Raymond W. Arritt, and David A. Keiser.
+Accepted by *Annual Review of Resource Economics*.
+
 [Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v9/bartalotti_calhoun_he_rdboot.pdf),
 with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
 and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang).
