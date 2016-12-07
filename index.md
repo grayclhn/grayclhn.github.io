@@ -14,10 +14,8 @@ dot org» (personal email and IM)
 
 **Office:** 467 Heady Hall, (515) 294-6271.
 
-**Schedule for 2015–2016:** I'm teaching Tuesdays and Thursdays both
-Fall and Spring semesters, 9–11 in the Fall and 2–3:30 in the
-Spring. Office hours are held in my office for 45 minutes or so after
-the lecture.
+**Fall, 2016 office hours:** Mondays 1:30 to 3:30 in my office, or
+immediately after class.
 
 **Links:**
 [CV](dl/calhoun-cv.pdf),
@@ -25,13 +23,10 @@ the lecture.
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
-[Pinboard](https://pinboard.in/u:pseut),
 and [Twitter](https://twitter.com/grayclhn).
 Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
-
-This website was last updated on 2015-08-29.
 
 <hr />
 
@@ -52,13 +47,6 @@ Teaching
 
 [590f]: https://github.com/heike/stat590f
 [Heike Hofmann]: http://hofmann.public.iastate.edu/
-
-<a id="expectations">
-Information for PhD students at Iowa State
-------------------------------------------
-
-* [Information about PhD Econometrics this Fall (2015) at Iowa State](http://gray.clhn.org/blog/intro-phd-email)
-* [Expectations for “econometrics” PhD students](https://slack-files.com/T0F8SPJGJ-F0WMAGK4Y-7cb66a33a8)
 
 <a id="students">
 Current and former PhD students
