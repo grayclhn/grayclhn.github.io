@@ -101,11 +101,9 @@ Iowa State University Economics Department Working Paper #11017.
 [source code archive](dl/calhoun_stepdown.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/) -->
 
-[An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun_mixedwindow_v2015-01-09.pdf)
-(2015-01-09, revise and resubmit at *Econometrica*) with
-[appendix](dl/calhoun_mixedwindow_appendix_v2015-01-09.pdf) and
-[source code archive](dl/calhoun_mixedwindow_v2015-04-23.zip).
-<!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
+[An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun_mixedwindow.pdf)
+(2016, revise and resubmit at *Econometrica*) with
+[source code repository](https://github.com/grayclhn/mixedwindow).
 
 [A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf),
 (2016) with [source code archive](https://github.com/grayclhn/smooth_irf).
