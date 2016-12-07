@@ -89,16 +89,16 @@ Iowa State University Economics Department Working Paper #11002.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
 [Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap_2016-09-28.pdf)
-(2015-12-31, revise and resubmit at *Econometric Theory*) with
+(2016, revise and resubmit at *Econometric Theory*) with
 [supplemental appendix](dl/calhoun_bootstrap_appendix_2016-09-28.pdf)
 and
 [public repository](https://github.com/grayclhn/block-bootstrap-weak).
 Iowa State University Economics Department Working Paper #11017.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
 
-[Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown_v2015-04-27.pdf)
-(2015-04-27, revise and resubmit at *Journal of Econometrics*) with
-[source code archive](dl/calhoun_stepdown_v2015-04-27.zip).
+[Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown.pdf)
+(2015, revise and resubmit at *Journal of Econometrics*) with
+[source code archive](dl/calhoun_stepdown.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/) -->
 
 [An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun_mixedwindow_v2015-01-09.pdf)
@@ -108,11 +108,11 @@ Iowa State University Economics Department Working Paper #11017.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/mixedwindow) -->
 
 [A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf),
-(2016-03-28) with [source code archive](https://github.com/grayclhn/smooth_irf).
+(2016) with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
 [A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap_v2015-04-21.pdf)
-(2015-04-21) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
+(2015) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
 <a id="publications">
@@ -145,7 +145,7 @@ Other working papers
 March 2016. CARD Working Paper #563.
 
 [A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics.pdf)
-(2015-07-19) with
+(2015) with
 [source code archive](dl/calhoun_rrgraphics.zip).
 Iowa State University Economics Department Working Paper [#15014](https://www.econ.iastate.edu/research/%5Bpublication-menu-cat%5D/p19889).
 (This is a more formal version of a blog post I had written earlier.)
