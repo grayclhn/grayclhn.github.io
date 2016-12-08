@@ -70,35 +70,35 @@ Work in progress
 ----------------
 
 [Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
-(2014-03-30, revise and resubmit at *Quantitative Economics*) with
-[supplemental appendix](dl/calhoun_oosoverfit_appendix_v2014-03-30.pdf) and
-[source code archive](dl/calhoun_oosoverfit_v2014-09-22.zip).
+(revise and resubmit at *Quantitative Economics*) with
+[supplemental appendix](dl/calhoun_oosoverfit_appendix.pdf) and
+[source code archive](dl/calhoun_oosoverfit.zip).
 Iowa State University Economics Department Working Paper #11002.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
-[Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap_2016-09-28.pdf)
-(2016, revise and resubmit at *Econometric Theory*) with
-[supplemental appendix](dl/calhoun_bootstrap_appendix_2016-09-28.pdf)
+[Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap.pdf)
+(revise and resubmit at *Econometric Theory*) with
+[supplemental appendix](dl/calhoun_bootstrap_appendix.pdf)
 and
 [public repository](https://github.com/grayclhn/block-bootstrap-weak).
 Iowa State University Economics Department Working Paper #11017.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
 
 [Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown.pdf)
-(2015, revise and resubmit at *Journal of Econometrics*) with
+(revise and resubmit at *Journal of Econometrics*) with
 [source code archive](dl/calhoun_stepdown.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/stepdown-paper/) -->
 
 [An asymptotically normal out-of-sample test based on mixed estimation windows](dl/calhoun_mixedwindow.pdf)
-(2016, revise and resubmit at *Econometrica*) with
+(revise and resubmit at *Econometrica*) with
 [source code repository](https://github.com/grayclhn/mixedwindow).
 
 [A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf),
-(2016) with [source code archive](https://github.com/grayclhn/smooth_irf).
+with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
-[A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap_v2015-04-21.pdf)
-(2015) [source code archive](dl/calhoun_oosbootstrap_v2015-05-08.zip).
+[A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap.pdf)
+[source code archive](dl/calhoun_oosbootstrap.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
 <a id="publications">
@@ -126,8 +126,8 @@ of Econometrics*, 165(2), 2011: 163–174.
 Other working papers
 --------------------
 
-[Research Needs and Challenges in the FEW System: Coupling Economic Models with Agronomic, Hydrologic, and Bioenergy Models for Sustainable Food, Energy, and Water Systems](http://www.card.iastate.edu/publications/dbs/pdffiles/16wp563.pdf)
-(with Catherine L. Kling, Raymond W. Arritt, David A. Keiser, and 25 others),
+[Research Needs and Challenges in the FEW System: Coupling Economic Models with Agronomic, Hydrologic, and Bioenergy Models for Sustainable Food, Energy, and Water Systems](http://www.card.iastate.edu/publications/dbs/pdffiles/16wp563.pdf),
+with Catherine L. Kling, Raymond W. Arritt, David A. Keiser, and 25 others,
 March 2016. CARD Working Paper #563.
 
 [A graphical analysis of causality in the Reinhart-Rogoff dataset](dl/calhoun_rrgraphics.pdf)
