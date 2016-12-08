@@ -98,7 +98,7 @@ Iowa State University Economics Department Working Paper #11017.
 with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
-[A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap.pdf)
+[A simple block bootstrap for asymptotically normal out-of-sample test statistics](dl/calhoun_oosbootstrap.pdf), with
 [source code archive](dl/calhoun_oosbootstrap.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
