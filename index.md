@@ -93,7 +93,8 @@ Iowa State University Economics Department Working Paper #11017.
 (revise and resubmit at *Econometrica*) with
 [source code repository](https://github.com/grayclhn/mixedwindow).
 
-[A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf),
+[A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf)
+(submitted to *Journal of Money, Credit and Banking*)
 with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
