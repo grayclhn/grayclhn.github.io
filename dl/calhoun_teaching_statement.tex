@@ -1,0 +1,273 @@
+\documentclass[12pt]{article}%
+\author{Gray Calhoun}
+\title{Statement of Teaching Philosophy}
+\frenchspacing
+\usepackage[T1]{fontenc}
+\usepackage{textcomp} % to get the right copyright, etc.
+\usepackage{lucidabr}
+%\renewcommand{\familydefault}{\sfdefault}
+\DeclareEncodingSubset{TS1}{hlh}{1}
+
+% Semi-detailed preamble follows
+\usepackage{
+    calc,
+    fancyhdr,
+    hyperref,
+    ragged2e,
+    url,
+}
+\usepackage[margin=1in]{geometry}
+\usepackage[letterspace=30]{microtype}
+
+\pagestyle{fancy}
+\cfoot{\oldstylenums{\thepage}}
+\renewcommand{\headrulewidth}{0pt}
+
+\RaggedRight
+\urlstyle{same} %<- Do not monospace urls.
+\newcommand{\allcaps}[1]{\textls{\MakeUppercase{#1}}}
+\newcommand{\smallcaps}[1]{\textsc{\MakeLowercase{#1}}}
+
+% Set spacing and size of sections and subsections. (Don't use
+% anything below subsection.)
+\usepackage[tiny,raggedright]{titlesec}
+\titleformat{\section}{\bf\lsstyle\uppercase}{}{}{}{}
+\titleformat{\subsection}{\bf}{}{}{}{}
+\titlespacing*{\section}{0pt}{2\baselineskip}{\baselineskip}
+\titlespacing*{\subsection}{0pt}{\baselineskip}{\itemsep}
+\setlength\parindent{1em}
+
+% Change the displayed title to emphasize the author and radically
+% reduce spacing.
+\makeatletter
+\def\maketitle{%
+\begin{center}%
+\par{\textls{\MakeUppercase{\textbf{\@title}}}}%
+\vspace{\itemsep}%
+\par{\@author, \@date}%
+\end{center}%
+}
+\makeatother
+% semi-detailed preamble over
+
+\begin{document}
+\maketitle
+
+\noindent%
+My teaching philosophy has been heavily influenced by the ``Team-Based
+Learning'' instructional style (TBL), which I learned about from a
+series of workshops run at Iowa State in 2014. TBL is a ``flipped
+classroom'' approach; students are expected to familiarize themselves
+with course material outside of class and deepen their understanding
+by applying that material in the classroom. But TBL differs from other
+flipped classroom teaching styles in the way that it structures
+classroom exercises and students' individual study sessions and, I
+believe, these features make it especially well suited for my
+instructional goals and for many aspects of university
+education. Since taking these workshops, I have converted my required
+PhD econometrics course to TBL (Econ 671); I am in the process of
+converting my Principles of Macroeconomics course (Econ 102); and I
+plan to convert my graduate econometrics elective (Econ 674) in the
+future. I have also continued to learn more about TBL, frequently
+attend meetings of the TBL ``Learning Community'' organized on campus,
+and have presented some of my course material to the TBL Learning
+Community for feedback (on October 3, 2014, October 30, 2015, and
+December 9, 2016).
+
+In the first part of this section, I will explain my teaching
+principles and goals. The second part of this section will briefly
+describe TBL and explain how it is effective in meeting those
+goals. And the third part discusses areas of teaching that occur
+outside of formal coursework---another area of teaching that I have
+been heavily involved in. In addition to the courses I have taught at
+Iowa State, I have been the advisor for two PhD students, both of whom
+have graduated and taken research positions in academia, and am
+currently advising another. I have also served on 15 graduate student
+committees in the Economics and Statistics departments (including
+current students); and I have organized several informal reading
+groups and workshops for graduate students.
+
+\section*{Teaching principles and goals}
+
+I try to follow three general principles when I teach. First, I
+believe it is important to give students the opportunity to solve
+challenging, open-ended assignments that match real world use of the
+material covered in the course. These assignments serve several
+purposes: they help students integrate the different components of the
+course and understand them better; and they directly help students
+understand how the material can be used in practice, giving them a
+better understanding of economics in general and making it more likely
+that they will recognize situations where they can apply the skills
+they have learned in the class. Second, I try to structure the course
+and its assignments to motivate students and to prepare them to be
+successful in solving challenging and realistic open-ended
+assignments. Motivating students that are very comfortable with the
+material and motivating students that are struggling with the material
+typically require different approaches, but both are important. Third,
+I design the course so that the students and the instructor get
+frequent and accurate feedback about the students' performance and
+level of understanding.
+
+Obviously, a challenging, open-ended, and realistic assignment for
+Principles of Macroeconomics is very different than one for a
+PhD-level econometrics course, but I have found that emphasizing these
+principles helps both sets of students: the Principles of
+Macroeconomics students learn skills that they can use later in
+college and after graduation, and the PhD students are shown how they
+can apply the course material to their own research.
+
+\section*{TBL description and examples from my current teaching}
+
+A TBL class has a few distinctive features. (More details are
+available at the main TBL website,
+\url{http://www.teambasedlearning.org}, along with references to
+additional resources.)
+
+\begin{itemize}
+\item The semester is split into 4-7 major sections, each lasting 2--4
+  weeks. For PhD Econometrics, for example, I use the following 6
+  sections:
+  \begin{enumerate}
+  \item Introduction to Probability Theory (3 weeks)
+  \item Sampling and asymptotics (2 weeks)
+  \item Statistical inference and estimation (3 weeks)
+  \item Finite-sample properties of linear regression (2 weeks)
+  \item Asymptotic properties of linear regression (3 weeks)
+  \item Causal inference using linear regression (2 weeks)
+  \end{enumerate}
+
+\item Students are assigned reading (and potentially homework) before
+  each section, then spend most of the class meetings working with
+  their team on challenging group assignments.
+
+\item Each of the 6 major sections starts with a structured quiz and
+  review session that lasts one or two class meetings. This review
+  ensures that students are familiar with and prepared to use the
+  material in the team assignments. After that review, the remaining
+  class periods are spent on team assignments, where students will
+  learn how to use this material effectively.
+
+\item The team assignments follow several principles to make them as
+  useful as possible; assignments that are easily split into parts
+  that can be delegated to individual members of a team are
+  discouraged in TBL, as are those that require teams to make a final
+  product that is particularly complicated, time-consuming, or
+  difficult to evaluate. (Group papers and group presentations are
+  strongly discouraged in TBL for those reasons.) For most
+  assignments, teams are instead asked to make a small number of
+  decisions based on some amount of background and context-specific
+  information. For example, one of the assignments towards the end of
+  my Principles of Macroeconomics class has students assume the role
+  of an advisor to the Icelandic government during the recent
+  financial crisis. It culminates in the question:
+
+  \emph{Which of the following policies would you advise the Icelandic
+    government would be best for the economy in the middle of a
+    financial crisis? (There is going to be a recession for sure, this
+    question is all about managing its damage.)
+    \begin{enumerate}
+    \item Allow the Krona/Euro exchange rate to be determined by the
+      market, and use monetary and fiscal policy to offset the
+      recession.
+    \item Plan to sell Krona to keep the exchange rate from moving too
+      quickly; then use monetary policy to offset the recession.
+    \item Plan to buy Krona to keep the exchange rate from moving too
+      quickly; then use monetary policy to offset the recession.
+    \item Peg the exchange rate at a new level using monetary policy;
+      use fiscal policy to offset the recession.
+    \item Decrease government spending to restore faith in financial
+      markets.
+    \end{enumerate}}
+
+  To effectively answer this question, students need to apply specific
+  and detailed knowledge from the course and to evaluate and discuss
+  each possibility. But to report its answer, a team just needs to
+  choose the appropriate letter. This allows the students to focus
+  entirely on understanding and using the course material, not on
+  coordinating the effort to report their conclusions.
+
+  However, this is not a pure ``multiple choice'' question. Teams will
+  be expected to explain their answers to the class and to evaluate
+  the other teams' choices as part of the exercise and to get credit
+  for their answer. Requiring teams to report a single choice is done
+  to facilitate discussion within the teams and within the class
+  overall.
+
+\item Team construction follows several principles as well. Students
+  are grouped into relatively large teams (5--7 students each) at the
+  beginning of the course and keep those teams for the entire
+  semester. The teams are assembled transparently by the instructor to
+  have a diverse mix of backgrounds and skills in each team. Since
+  they work together for the entire semester, students have enough
+  time to build strong relationships with their teammates, leading to
+  higher performance through more effective teamwork and greater
+  individual accountability.
+\end{itemize}
+
+I have found that this structure is very effective at meeting my
+instructional goals and principles. These teams of students are able
+to solve very difficult real-world questions that very few of the
+students would be able to solve individually. Each student is able to
+contribute meaningfully to the team, and the interaction between the
+students helps them all understand the material more
+deeply. Similarly, when teams are working together effectively they
+can accomplish more in a single lecture than students working
+individually, so the assignment can incorporate more of the
+meta-skills that will be necessary for students to apply the material
+later in their careers---framing the problem so that it can be solved
+using some of the models they've learned earlier in the semester, for
+example---that are difficult to fit into class otherwise. Moreover,
+when students are working on assignments, the TAs and I circulate
+among the teams to answer questions, discuss the approach they are
+taking, and (occasionally) give them additional problems if they think
+that they've finished the current assignment. This, along with the
+full-class discussions and the review sessions in the review process,
+provides an enormous amount of feedback to the students and the
+instructors on their level of understanding and performance, making it
+easier for the students to adjust their effort levels and allowing me
+to provide additional background knowledge if it is necessary.
+
+Furthermore, the emphasis on team assignments has served as a very
+powerful motivator for students of every level of individual
+performance. This motivation can be increased even more when the
+assignment can be structured so that teams are competing against each
+other directly. (Another one of TBL's recommendations.) Direct
+competition is easy to incorporate into many assignments in economics
+and econometrics; in one assignment for Econ 671, for example, teams
+construct and estimate a linear regression model for forecasting
+state-level unemployment, and are partly graded on the forecast's
+accuracy; and in another assignment teams use probabilistic and
+statistical models to bid for risky assets in an auction. Both of
+these assignments have had very high levels of engagement, enthusiasm,
+and effort from the students.
+
+\section*{Mentoring and advising graduate students}
+
+I have been very active in working with graduate students outside of
+class as well. In addition to advising several PhD students and
+serving on graduate student committees (in both the Economics and the
+Statistics departments), I have organized reading groups for graduate
+students and faculty that have targeted specific areas of
+econometrics, one on the bootstrap during the spring 2016 semester and
+one that met later that summer on machine learning. After speaking
+with faculty at other universities about their graduate programs, I
+have also started to organize a workshop for our PhD students that
+will start meeting in the 2016 Fall semester. This workshop will be
+used for PhD students to present their research regularly to the
+econometrics faculty and to review and discuss relevant papers that
+are presented in our departmental seminar, and faculty at other
+institutions have found that similar workshops have greatly benefited
+their graduate programs. This workshop is being organized in
+consultation with several other faculty members in the department, but
+under my own initiative. We expect it to lead to much better research
+by our graduate students and a higher level of polish and confidence
+on the job market.
+
+The same principles that I try to follow in the classroom apply in
+these less formal settings as well: I try to give students a safe
+environment for them to practice and perform the skills they need to
+develop professionally and I try to pay attention to the students'
+motivation and energy level and give them frequent and accurate
+feedback.
+
+\end{document}
