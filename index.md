@@ -27,8 +27,8 @@ Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
 
-* [Curriculum vitae](dl/calhoun-cv.pdf),
-* [Teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
+* [Curriculum vitae](dl/calhoun-cv.pdf)
+* [Statement of teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
 
 <hr />
 
