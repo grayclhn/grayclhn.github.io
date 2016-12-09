@@ -17,13 +17,11 @@ dot org» (personal email and IM)
 **Fall, 2016 office hours:** Mondays 1:30 to 3:30 in my office, or
 immediately after class.
 
-Links
------
-
 * [Curriculum vitae](dl/calhoun-cv.pdf),
 * [Teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
 
-Also: [IDEAS](http://ideas.repec.org/f/pca491.html),
+**Other links:**
+[IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
