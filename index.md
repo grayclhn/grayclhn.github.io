@@ -17,10 +17,7 @@ dot org» (personal email and IM)
 **Fall, 2016 office hours:** Mondays 1:30 to 3:30 in my office, or
 immediately after class.
 
-* [Curriculum vitae](dl/calhoun-cv.pdf),
-* [Teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
-
-**Other links:**
+**Links:**
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
@@ -29,6 +26,9 @@ and [Twitter](https://twitter.com/grayclhn).
 Let me know if you want the password to my [family
 blog](http://clhn.org). (Don’t feel left out, it’s mostly
 pictures of my kids.)
+
+* [Curriculum vitae](dl/calhoun-cv.pdf),
+* [Teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
 
 <hr />
 
