@@ -71,7 +71,7 @@ Current and former PhD students
 Work in progress
 ----------------
 
-[Out-of-sample comparisons of overfit models](http://www.econ.iastate.edu/research/working-papers/p12462)
+[Out-of-sample comparisons of overfit models](http://lib.dr.iastate.edu/econ_las_workingpapers/14/)
 (revise and resubmit at *Quantitative Economics*) with
 [supplemental appendix](dl/calhoun_oosoverfit_appendix.pdf) and
 [source code archive](dl/calhoun_oosoverfit.zip).
