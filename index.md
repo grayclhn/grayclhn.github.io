@@ -39,7 +39,7 @@ Teaching
 * [Principles of Macroeconomics (Econ 102)](102)
 * [PhD Econometrics 1 — introduction to statistics
   and regression (Econ 671)](671)
-* [PhD Macroeconometrics (Econ 674)](674)
+* PhD Macroeconometrics (Econ 674) (moved to Blackboard Learn)
 * [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
   is teaching it; I’m attending.)
 * MA Creative Component (Econ 599): Section CG,
