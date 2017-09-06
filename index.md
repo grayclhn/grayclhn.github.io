@@ -1,73 +1,32 @@
 ---
-title: Gray Calhoun’s academic homepage
+title: Gray Calhoun’s [ex-]academic homepage
 layout: front
 ---
 
-I’m Gray Calhoun, an Assistant Professor in the Economics Department
-at Iowa State. I work on Econometric theory, especially time series
-and applications to forecasting and forecast evaluation. I graduated
-with a PhD from UC San Diego in 2009, where I worked with Graham
-Elliott and Allan Timmermann.
+I’m Gray Calhoun. I started working as a Senior Economist at Amazon in
+July, 2017, and worked as an Assistant Professor at Iowa State for 8
+year before that. My research has focused mostly on time series econometrics
+and the bootstrap. I'm not entirely sure what to do with this website now
+that I'm in the private sector, but I'll try to keep it at least nominally
+up to date while I figure that out.
 
-**Email:** «gcalhoun at iastate dot edu» (university) and «gray at clhn
-dot org» (personal email and IM)
-
-**Office:** 467 Heady Hall, (515) 294-6271.
-
-**Fall, 2016 office hours:** Mondays 1:30 to 3:30 in my office, or
-immediately after class.
+**Email:** «gcalhou at amazon dot com» (work) and «gray at clhn dot
+org» (personal email and IM)
 
 **Links:**
+[Curriculum vitae](dl/calhoun-cv.pdf),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
 [GitHub](https://github.com/grayclhn),
 and [Twitter](https://twitter.com/grayclhn).
 Let me know if you want the password to my [family
-blog](http://clhn.org). (Don’t feel left out, it’s mostly
+blog](http://clhn.org). (Don’t feel left out if you don't have it, it’s mostly
 pictures of my kids.)
 
-* [Curriculum vitae](dl/calhoun-cv.pdf)
-* [Statement of teaching philosophy](dl/calhoun_teaching_philosophy.pdf)
-
 <hr />
 
-<a id="teaching">
-Teaching
---------
-
-* [Principles of Macroeconomics (Econ 102)](102)
-* [PhD Econometrics 1 — introduction to statistics
-  and regression (Econ 671)](671)
-* PhD Macroeconometrics (Econ 674) (moved to Blackboard Learn)
-* [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
-  is teaching it; I’m attending.)
-* MA Creative Component (Econ 599): Section CG,
-  reference number 3154027
-* Research for thesis or dissertation (Econ 699): Section CG,
-  reference number 3171027
-
-[590f]: https://github.com/heike/stat590f
-[Heike Hofmann]: http://hofmann.public.iastate.edu/
-
-<a id="students">
-Current and former PhD students
--------------------------------
-
-* [Kevin Duncan](http://kdduncan.github.io/index.html). Current
-  economics PhD student.
-* [Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics,
-  [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle)
-  and I were co-advisors.
-* [Matt Simpson](http://www.themattsimpson.com/). 2015 PhD in
-  Economics and Statitstics, [Jarad Niemi](http://www.jarad.me/) and I
-  were co-advisors.
-
-<hr />
-
-<a id="workingpapers">
-Work in progress
-----------------
+## Research in progress
 
 [Out-of-sample comparisons of overfit models](http://lib.dr.iastate.edu/econ_las_workingpapers/14/)
 (revise and resubmit at *Quantitative Economics*) with
@@ -94,7 +53,6 @@ Iowa State University Economics Department Working Paper #11017.
 [source code repository](https://github.com/grayclhn/mixedwindow).
 
 [A method for smoothing Impulse Response Functions for discrete-time linear models](dl/calhoun_smoothirf.pdf)
-(submitted to *Journal of Money, Credit and Banking*)
 with [source code archive](https://github.com/grayclhn/smooth_irf).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/smooth_irf) -->
 
@@ -102,9 +60,7 @@ with [source code archive](https://github.com/grayclhn/smooth_irf).
 [source code archive](dl/calhoun_oosbootstrap.zip).
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oosbootstrap) -->
 
-<a id="publications">
-Refereed publications
----------------------
+## Refereed publications
 
 Integrated Assessment Models of the Food, Energy, and Water (FEW) Nexus: A
 Review and Research Needs (2016)
@@ -124,8 +80,7 @@ of Econometrics*, 165(2), 2011: 163–174.
 [R package](dl/ftestLargeK_1.0.tar.gz), and
 [additional files](dl/calhoun_ftest_2010.tar.gz)
 
-Other working papers
---------------------
+## Other working papers
 
 [Research Needs and Challenges in the FEW System: Coupling Economic Models with Agronomic, Hydrologic, and Bioenergy Models for Sustainable Food, Energy, and Water Systems](http://www.card.iastate.edu/publications/dbs/pdffiles/16wp563.pdf),
 with Catherine L. Kling, Raymond W. Arritt, David A. Keiser, and 25 others,
@@ -140,9 +95,34 @@ Iowa State University Economics Department Working Paper [#15014](https://www.ec
 
 <hr />
 
-<a id="ephemera">
-Ephemera
---------
+## Past teaching
+
+* [Principles of Macroeconomics (Econ 102)](102)
+* [PhD Econometrics 1 — introduction to statistics
+  and regression (Econ 671)](671)
+* PhD Macroeconometrics (Econ 674) (moved to Blackboard Learn)
+* [Topics in statistical computing (Stat 590f)][590f] ([Heike Hofmann][]
+  is teaching it; I’m attending.)
+* MA Creative Component (Econ 599): Section CG,
+  reference number 3154027
+* Research for thesis or dissertation (Econ 699): Section CG,
+  reference number 3171027
+
+[590f]: https://github.com/heike/stat590f
+[Heike Hofmann]: http://hofmann.public.iastate.edu/
+
+## PhD students
+
+* [Anwen Yin](http://anwenyin.weebly.com). 2015 PhD in Economics,
+  [Helle Bunzel](https://www.econ.iastate.edu/people/faculty/bunzel-helle)
+  and I were co-advisors.
+* [Matt Simpson](http://www.themattsimpson.com/). 2015 PhD in
+  Economics and Statitstics, [Jarad Niemi](http://www.jarad.me/) and I
+  were co-advisors.
+
+<hr />
+
+## Ephemera
 
 <ul>
 {% for post in site.categories.blog %}
