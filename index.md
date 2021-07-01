@@ -35,14 +35,6 @@ pictures of my kids.)
 Iowa State University Economics Department Working Paper #11002.
 <!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/oos-overfit) -->
 
-[Block bootstrap consistency under weak assumptions](dl/calhoun_bootstrap.pdf)
-(revise and resubmit at *Econometric Theory*) with
-[supplemental appendix](dl/calhoun_bootstrap_appendix.pdf)
-and
-[public repository](https://github.com/grayclhn/block-bootstrap-weak).
-Iowa State University Economics Department Working Paper #11017.
-<!-- [Private git repository](https://git.ece.iastate.edu/gcalhoun/statboot-paper) -->
-
 [Improved stepdown methods for asymptotic control of generalized error rates](dl/calhoun_stepdown.pdf)
 (revise and resubmit at *Journal of Econometrics*) with
 [source code archive](dl/calhoun_stepdown.zip).
@@ -62,16 +54,26 @@ with [source code archive](https://github.com/grayclhn/smooth_irf).
 
 ## Refereed publications
 
+Block bootstrap consistency under weak assumptions.
+*Econometric Theory*, 36(6):1383–1406.
+[Link](dl/calhoun_bootstrap.pdf),
+[published version](https://www.cambridge.org/core/journals/econometric-theory/article/abs/block-bootstrap-consistency-under-weak-assumptions/C50E7F8B46BC2F70CAC9FC4026790B13),
+[supplemental appendix](dl/calhoun_bootstrap_appendix.pdf),
+and
+[public repository](https://github.com/grayclhn/block-bootstrap-weak).
+
 Integrated Assessment Models of the Food, Energy, and Water (FEW) Nexus: A
 Review and Research Needs (2016)
 with Catherine L. Kling, Raymond W. Arritt, and David A. Keiser.
-Accepted by *Annual Review of Resource Economics*.
+*Annual Review of Resource Economics*, 9:143–163, 2017.
+[Link](https://www.annualreviews.org/doi/abs/10.1146/annurev-resource-100516-033533).
 
-[Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs](https://github.com/grayclhn/boot-rd/releases/download/v9/bartalotti_calhoun_he_rdboot.pdf),
-with [Otávio Bartalotti](https://www.econ.iastate.edu/people/faculty/bartalotti-ot%C3%A1vio)
-and [Yang He](https://www.econ.iastate.edu/people/graduate-students/he-yang).
-Forthcoming in *Advances in Econometrics* volume 38, October 2016.
-[Source code repository](https://github.com/grayclhn/boot-rd)
+Bootstrap Confidence Intervals for Sharp Regression Discontinuity Designs
+with Otávio Bartalotti and Yang He.
+*Advances in Econometrics*, 38:421–453, October 2016.
+[Link](https://github.com/grayclhn/boot-rd/releases/download/v9/bartalotti_calhoun_he_rdboot.pdf),
+[published version](https://www.emerald.com/insight/content/doi/10.1108/S0731-905320170000038018/full/html), and
+[source code repository](https://github.com/grayclhn/boot-rd).
 
 Hypothesis testing in linear regression when k/n is large. *Journal
 of Econometrics*, 165(2), 2011: 163–174.
