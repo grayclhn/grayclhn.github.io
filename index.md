@@ -3,9 +3,9 @@ title: Gray Calhoun’s [ex-]academic homepage
 layout: front
 ---
 
-I’m Gray Calhoun. I started working as a Senior Economist at Amazon in
-July, 2017, and worked as an Assistant Professor at Iowa State for 8
-year before that. My research has focused mostly on time series econometrics
+I’m Gray Calhoun. I started working as an Economist at Amazon in
+2017, and worked as an Assistant Professor at Iowa State for 8
+years before that. My research focused mostly on time series econometrics
 and the bootstrap. I'm not entirely sure what to do with this website now
 that I'm in the private sector, but I'll try to keep it at least nominally
 up to date while I figure that out.
