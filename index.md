@@ -14,7 +14,7 @@ up to date while I figure that out.
 org» (personal email and IM)
 
 **Links:**
-[Curriculum vitae](dl/calhoun-cv.pdf),
+[Resume](dl/calhoun-resume.pdf),
 [IDEAS](http://ideas.repec.org/f/pca491.html),
 [Google Scholar](http://scholar.google.com/citations?hl=en&user=OS8d9ycAAAAJ),
 [LinkedIn](https://linkedin.com/in/grayclhn),
